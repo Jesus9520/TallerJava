@@ -1,5 +1,5 @@
     import java.util.Scanner;
-    public class compararNumerosPorConsola {
+    public class CompararNumerosPorConsola {
         //Método que valida si una cadena es numerica
         public static boolean isNumeric(String cadena){
             try {

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import static java.lang.Math.*;
 
-public class calcularCirculo {
+public class CalcularCirculo {
 
     private static boolean isNumeric(String cadena) {
         try {
