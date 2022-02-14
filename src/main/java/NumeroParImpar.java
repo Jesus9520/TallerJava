@@ -1,4 +1,4 @@
-public class numeroParImpar {
+public class NumeroParImpar {
 
     public static void main(String[] args) {
         String numPar="",numImpar="";

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class diaLaboral {
+public class DiaLaboral {
     public static void main(String[] args) {
         System.out.println("ingrese un día de la semana");
         Scanner imprimirDiaLaboral = new Scanner(System.in);

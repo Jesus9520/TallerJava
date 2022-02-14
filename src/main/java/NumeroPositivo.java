@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class numeroPositivo {
+public class NumeroPositivo {
     //método que valida si una cadena es numerica
     public static boolean isNumeric(String cadena) {
         try {

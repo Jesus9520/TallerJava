@@ -1,8 +1,6 @@
 import java.util.Scanner;
-import static java.lang.Math.PI;
-import static java.lang.Math.pow;
 
-public class precioProducto {
+public class PrecioProducto {
     private static boolean isNumeric(String cadena){
         try {
             Double.parseDouble(cadena);
