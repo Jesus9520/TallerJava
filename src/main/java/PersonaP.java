@@ -44,7 +44,7 @@ public class PersonaP {
         System.out.println(IMC1);
         System.out.println(IMC2);
         System.out.println(IMC3);
-        
+
 
     }
 }
